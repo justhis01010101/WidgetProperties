@@ -13,8 +13,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/text2"
-        android:textSize="20sp"
-        android:textColor="#b174b9"
+        android:textSize="50sp"
+        android:textColor="#df0c0c"
         />
     <TextView
         android:layout_width="match_parent"
@@ -63,6 +63,5 @@
         android:layout_margin="20dp"
         android:clickable="false"
         android:rotation="60"
-
         />
 </LinearLayout>
