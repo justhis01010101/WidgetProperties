@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="seoyeon.kr.hs.emirim.widgetproperties.MainActivity"
+    android:orientation="vertical">
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="버튼 1"
+       android:textSize="20sp"
+       android:background="#d7f7a5"
+       android:textColor="#000000"
+       android:padding="10dp"
+       android:layout_marginLeft="10dp"
+       android:layout_marginRight="10dp"
+       android:layout_marginTop="50dp"
+       android:visibility="visible"
+       />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="여긴 텍스트뷰입니다"
+        android:textSize="20sp"
+        android:background="#f0b3de"
+        android:textColor="#8e0b8e"
+        android:padding="15dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="50dp"
+        android:visibility="gone"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:background="#cdd1fa"
+        android:padding="90dp"
+        android:text="버튼 2"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+</LinearLayout>

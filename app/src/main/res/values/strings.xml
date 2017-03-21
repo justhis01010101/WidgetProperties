@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WidgetProperties</string>
+    <string name="but_str1">Click Button</string>
+    <string name="text1">TestSize</string>
+    <string name="text2">TestColor</string>
+    <string name="text3">Testtypeface</string>
+    <string name="text4">TestStyle</string>
+    <string name="text5">Test Single Line Test Single Line Test Single Line Test Single Line Test Single Line </string>
+
+</resources>
